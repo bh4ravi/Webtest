@@ -1,0 +1,6 @@
+<!DOCTYPE note
+[
+<!ELEMENT note (to,from)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+]>
